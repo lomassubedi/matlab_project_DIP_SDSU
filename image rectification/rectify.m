@@ -1,3 +1,5 @@
+startup_rvc % Using pter corke machine vision toolbox
+
 %%%%%%%%%%%%%%%%%%%%%%%%%% For white board 001.bmp %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 white_board = imread('white board 001.bmp'); % reading image
